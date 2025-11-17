@@ -10,8 +10,8 @@
 #define WIFI_PASSWORD "..." //your password
 
 // it use real time database
-#define API_KEY "AIzaSyC9RgtCyHE2jiccavq_GrjHQkwi8YHqS3U"
-#define DATABASE_URL "https://flutter-firebase-e4870-default-rtdb.asia-southeast1.firebasedatabase.app"
+#define API_KEY "..." //your API
+#define DATABASE_URL "..." //your Database url
 
 #define RELAY1 26
 #define RELAY2 25
@@ -105,3 +105,4 @@ void loop() {
     }
   }
 }
+
